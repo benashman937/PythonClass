@@ -15,6 +15,6 @@ print(data[0])
 
 #plotting data
 image-1=plt.plot(data)
-
+#show plot generated
 plt.show(image-1)
 
